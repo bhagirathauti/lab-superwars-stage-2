@@ -6729,7 +6729,7 @@ getJasmineRequireObj().interface = function(jasmine, env) {
      * Install a spy onto an existing object.
      * @name spyOn
      * @since 1.3.0
-     * @function
+     * * @function
      * @global
      * @param {Object} obj - The object upon which to install the {@link Spy}.
      * @param {String} methodName - The name of the method to replace with a {@link Spy}.
